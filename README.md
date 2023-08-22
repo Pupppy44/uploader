@@ -1,4 +1,4 @@
-<p align="center"> <img width="150" height="150" src="https://img.icons8.com/fluency-systems-filled/96/FA5252/fast-download.png" alt="fast-download"/>
+<p align="center"> <img width="170" height="170" src="https://img.icons8.com/fluency-systems-filled/96/FA5252/fast-download.png" alt="fast-download"/>
 </p>
 
 # uploader - File Uploading System
